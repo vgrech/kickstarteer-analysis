@@ -11,7 +11,7 @@
 ## Analysis and Challenges
 - Our first finding when utilizing the filtering tool to view only relevant data was that there were 525 successful theater kickstarters in the U.S. Next, we put the data into pivot tables and our next finding revealed that May was the month with the most succesfully launched campaigns.
 - ![](OutcomesBasedonLaunchDate.png)
--  However we also drew that January, June, July snf October all had roughly the same amount of failed campaigns launched. Laslty, we anlyzed the measures of central tendency in our "Descriptive Statistics Tab" and based on those statistics we determined the mean of of each distribution is around the thrid quartile with the data following similar distributions in each subset. 
+-  However we also drew that January, June, July and October all had roughly the same amount of failed campaigns launched. Laslty, we anlyzed the measures of central tendency in our "Descriptive Statistics Tab" and based on those statistics we determined the mean of of each distribution is around the thrid quartile with the data following similar distributions in each subset. 
 -  The standard deviations are larger than the mean which told us everything below the mean is considered to be "close" to the center. Therefore, some large values were driving these distributions. 
 
 ## Results
